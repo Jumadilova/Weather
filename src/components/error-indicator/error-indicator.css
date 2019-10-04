@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    max-height: 100vh;
+}
+.error-indicator{
+    color: red;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Raleway', sans-serif;
+}
